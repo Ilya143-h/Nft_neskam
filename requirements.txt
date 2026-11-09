@@ -1,5 +1,4 @@
-aiogram==3.4.1
-aiohttp
-pydantic==2.5.3
-beautifulsoup4
 flask
+aiogram==2.25.1
+aiohttp
+beautifulsoup4
